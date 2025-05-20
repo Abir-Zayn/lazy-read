@@ -1,0 +1,33 @@
+Project Structure 
+
+- assets
+----- image/
+----- logo/
+- lib
+---- common/
+---------- bloc/
+---------- utils/
+---------- widgets/
+- core
+--------- constants/
+--------- routes/
+--------- themes/
+- data
+--------- data_src/
+--------- models/
+--------- repositories/
+- presentation
+--------- auth/
+--------------- login/
+--------------- signup/
+--------- general/
+--------------- add_post/
+--------------- Categories/
+--------------- home/
+--------------- tags/
+--------------- widgets/
+--------- onboard/
+--------------- widgets/
+--------- splash/
+---- main.dart
+
